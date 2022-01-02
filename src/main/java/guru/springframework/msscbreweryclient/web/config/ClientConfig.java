@@ -1,4 +1,4 @@
-package guru.springframework.msscbreweryclient.web.client;
+package guru.springframework.msscbreweryclient.web.config;
 
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.impl.client.CloseableHttpClient;

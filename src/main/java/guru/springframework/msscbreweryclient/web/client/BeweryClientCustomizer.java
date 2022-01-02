@@ -1,5 +1,6 @@
 package guru.springframework.msscbreweryclient.web.client;
 
+import guru.springframework.msscbreweryclient.web.config.ClientSettings;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.web.client.RestTemplateCustomizer;
