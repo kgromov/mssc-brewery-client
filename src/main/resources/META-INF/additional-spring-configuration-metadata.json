@@ -1,0 +1,30 @@
+{
+  "properties": [
+    {
+      "name": "client.config.brewery-apihost",
+      "type": "java.lang.String",
+      "description": "URI of brewery microserver.",
+      "defaultValue": "http://localhost:8080"
+    },
+    {
+      "name": "client.config.max-connections",
+      "type": "java.lang.Integer",
+      "description": "Maximum total connection for client Http factory."
+    },
+    {
+      "name": "client.config.default-connections",
+      "type": "java.lang.Integer",
+      "description": "Maximum default connection for client Http factory."
+    },
+    {
+      "name": "client.config.request-timeout",
+      "type": "java.lang.Integer",
+      "description": "Request timeout."
+    },
+    {
+      "name": "client.config.socket-timeout",
+      "type": "java.lang.Integer",
+      "description": "Socket timeout."
+    }
+  ]
+}
